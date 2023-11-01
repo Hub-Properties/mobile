@@ -117,6 +117,7 @@ const Auth: FC = () => {
               placeholder={` ${label}`}
               value={value.toString()}
               placeholderTextColor="#030403"
+              
             
             />
             {field === 'Email' ? (
